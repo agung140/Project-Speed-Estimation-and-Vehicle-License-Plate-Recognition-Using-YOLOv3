@@ -1,4 +1,4 @@
-# Project-Yolov3
+#Dependencies (Software):
 -Python 3.9
 -Cuda 11.5
 -cuDNN 8.2.4
